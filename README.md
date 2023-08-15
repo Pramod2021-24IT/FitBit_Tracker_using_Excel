@@ -17,6 +17,7 @@ This repository contains the analysis code and data for the FitBit tracker which
 * [Results](#results) 
 * [Contributing](#contributing)
 * [License](#license)
+* [Contact](#contact)
   
 ## Introduction
 
@@ -69,3 +70,5 @@ See details-
 
 Permissions of this strong copyleft license are conditioned on making available the complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
+## Contact
+I would be happy with your suggestions. Feel free to contact us at - pramod.maurya12321@gmail.com.
